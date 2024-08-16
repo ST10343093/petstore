@@ -28,3 +28,4 @@ C:\Users\lab_services_student\source\repos\petstore\obj\Debug\net8.0\refint\pets
 C:\Users\lab_services_student\source\repos\petstore\obj\Debug\net8.0\petstore.pdb
 C:\Users\lab_services_student\source\repos\petstore\obj\Debug\net8.0\petstore.genruntimeconfig.cache
 C:\Users\lab_services_student\source\repos\petstore\obj\Debug\net8.0\ref\petstore.dll
+C:\Users\lab_services_student\source\repos\petstore\obj\Debug\net8.0\petstore.sourcelink.json
